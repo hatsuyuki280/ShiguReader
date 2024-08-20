@@ -8,14 +8,14 @@
 # read our documentation at https://github.com/codescan-io/codescan-scanner-action
 name: CodeScan
 
-on:
-  push:
-    branches: [ "new_master" ]
-  pull_request:
-    # The branches below must be a subset of the branches above
-    branches: [ "new_master" ]
-  schedule:
-    - cron: '32 8 * * 5'
+#on:
+#  push:
+#    branches: [ "new_master" ]
+#  pull_request:
+#    # The branches below must be a subset of the #branches above
+#    branches: [ "new_master" ]
+#  schedule:
+#    - cron: '32 8 * * 5'
 
 permissions:
   contents: read
