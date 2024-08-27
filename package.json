@@ -38,7 +38,7 @@
     "react-visibility-sensor": "^5.1.1",
     "request": "^2.88.2",
     "request-promise": "^4.2.6",
-    "screenfull": "^4.0.0",
+    "screenfull": "^6.0.2",
     "sweetalert2": "^8.0.7",
     "underscore": "^1.9.1",
     "whatwg-fetch": "^3.0.0"
