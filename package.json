@@ -33,7 +33,7 @@
     "react-dplayer": "^0.4.2",
     "react-modal": "^3.12.1",
     "react-range-slider-input": "^3.0.7",
-    "react-router-dom": "^6.26.1",
+    "react-router-dom": "^7.0.1",
     "react-toastify": "^10.0.5",
     "react-visibility-sensor": "^5.1.1",
     "request": "^2.88.2",
